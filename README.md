@@ -15,3 +15,7 @@ Este projeto em Rust interage com a API WLAN do Windows para enumerar interfaces
 <p>
 Este projeto é um exemplo prático do uso de Rust para programação de sistemas e interação com APIs do Windows.
 </p>
+<h3>Disclaimer</h3>
+<p>
+<strong>Aviso:</strong> Este projeto é destinado exclusivamente a fins educacionais e de pesquisa. O autor não se responsabiliza pelo uso indevido ou ilegal do software. Qualquer tentativa de utilizar este projeto para acessar redes sem autorização é estritamente proibida e pode ser considerada uma violação da lei. Use este software de maneira responsável e ética.
+</p>
